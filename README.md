@@ -25,3 +25,8 @@ id|isIssued|title|author
 ```bash
 g++ library.cpp -o library
 ./library
+```
+## 📌 Future Enhancements
+User login system
+Due date & fine calculation
+Admin/User role separation
