@@ -19,3 +19,9 @@ The system allows users to manage books, issue/return them, and persist data acr
 
 ## 📂 Data Storage
 Books are stored in a text file (`books.txt`) using a safe serialization format:
+id|isIssued|title|author
+
+## ▶️ How to Run
+```bash
+g++ library.cpp -o library
+./library
