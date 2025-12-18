@@ -27,6 +27,6 @@ g++ library.cpp -o library
 ./library
 ```
 ## 📌 Future Enhancements
-User login system
-Due date & fine calculation
-Admin/User role separation
+- User login system
+- Due date & fine calculation
+- Admin/User role separation
