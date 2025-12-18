@@ -181,11 +181,19 @@ public:
             cout << "No matching books found.\n";
     }
 };
-
+void intro()
+{
+	cout<<"\n| LIBRARY";
+	cout<<"\n| MANAGEMENT";
+	cout<<"\n| SYSTEM";
+	cout<<"\n\nMADE BY : Gaurav Patidar";
+	cout<<"\n\nPress ENTER to continue...";
+    cin.get();
+}
 int main() {
     Library lib;
     int choice;
-
+    intro();
     while (true) {
         cout << "\n--- Library Management System ---\n";
         cout << "1. Add Book\n2. Display Books\n3. Issue Book\n";
@@ -204,3 +212,4 @@ int main() {
         }
     }
 }
+
