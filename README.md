@@ -23,8 +23,8 @@ id|isIssued|title|author
 
 ## ▶️ How to Run
 ```bash
-g++ library.cpp -o library
-./library
+g++ Library-Management-System.cpp -o Library-Management-System
+./Library-Management-System
 ```
 ## 📌 Future Enhancements
 - User login system
