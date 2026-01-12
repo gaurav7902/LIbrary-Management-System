@@ -30,3 +30,8 @@ g++ Library-Management-System.cpp -o Library-Management-System
 - User login system
 - Due date & fine calculation
 - Admin/User role separation
+
+## 👨‍💻 Author
+
+**Gaurav Patidar**  
+B.Tech – Computer Science and Engineering | IIT (ISM) Dhanbad
